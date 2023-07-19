@@ -1,2 +1,24 @@
-# Peruvian-food-menu
-I have the honor of presenting you this Peruvian food menu made in Ruby on Rails. The menu is classified into sea food, creole food, northern food, southern food and food from the peruvian rainforest.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
